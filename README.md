@@ -19,10 +19,10 @@ started for the application to work. Make sure to change the application.propper
 file with your credentials for MySQL database.
 
 # Functionality for logged in user
-![](https://github.com/BFucec/3d-printing-forum/master/Loggedin.gif)
+![](Loggedin.gif)
 
 # Functionality admin
-![](https://github.com/BFucec/3d-printing-forum/master/Admin.gif)
+![](Admin.gif)
 
 
 
