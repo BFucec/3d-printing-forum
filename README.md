@@ -18,6 +18,13 @@ The frontend can be started with the "$npm run start" command. The database also
 started for the application to work. Make sure to change the application.propperties in the backend
 file with your credentials for MySQL database.
 
+# Functionality for logged in user
+![](https://github.com/BFucec/3d-printing-forum/Loggedin.gif)
+
+# Functionality admin
+![](https://github.com/BFucec/3d-printing-forum/Admin.gif)
+
+
 
 
 
